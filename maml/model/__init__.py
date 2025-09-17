@@ -1,0 +1,1 @@
+from .model import ModelConvOmniglot, ModelConvMiniImagenet, ModelConvDoubleMNIST, ModelMLPSinusoid
